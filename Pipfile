@@ -11,6 +11,8 @@ scikit-learn = "*"
 matplotlib = "*"
 bokeh = "*"
 seaborn = "*"
+mlflow = "*"
+hyperopt = "*"
 
 [dev-packages]
 
